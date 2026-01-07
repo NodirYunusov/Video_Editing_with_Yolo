@@ -3,5 +3,5 @@ python video_editing1.py --video_path "D:\Projects\video\unprocessed\2.mp4" --sa
 blur.py and Real Time Blurring - are my codes
 --video_path - is where my unprocessed file located
 --save_path is a path of my output video
-
+# Here you see output of Live Blurring --?  Face Blurring output https://drive.google.com/file/d/1bqDA1AkLw-uBIwRLSlSHh6mO9y5tE2fY/view?usp=drive_link 
 # Here I used yolov8n which is smallest among YOLO model in order to perform the task easily. Due to nano version there are some lacks and lower precision especially in Face Blurring. So, if better equipments is provided better results can be achieved.
